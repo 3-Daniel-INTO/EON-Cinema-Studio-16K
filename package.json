@@ -1,6 +1,6 @@
 {
   "name": "eon-cinema-studio-16k",
-  "version": "30.0.0",
+  "version": "31.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -12,9 +12,8 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "framer-motion": "11.0.8",
-    "lucide-react": "0.344.0",
     "three": "^0.161.0",
-    "@react-three/fiber": "^8.15.16",
-    "@react-three/drei": "^9.97.0"
+    "glsl-film-grain": "^1.0.4",
+    "postprocessing": "^6.35.0"
   }
 }
