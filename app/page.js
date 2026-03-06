@@ -18,7 +18,7 @@ export default function EonQualitiesStudio() {
           <Shield color="#d4af37" size={30} />
           <h1 style={{ letterSpacing: '10px', fontSize: '1.5rem', fontWeight: '900' }}>EON SUPREME</h1>
         </div>
-        <div style={{ color: '#d4af37', fontSize: '0.7rem', letterSpacing: '3px' }}>HOLLYWOOD STANDARD V25.0</div>
+        <div style={{ color: '#d4af37', fontSize: '0.7rem', letterSpacing: '3px' }}>GEN-6 SOVEREIGN | INVESTMENT READY</div>
       </header>
 
       <main style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(250px, 1fr))', gap: '20px' }}>
